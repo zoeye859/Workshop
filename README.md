@@ -25,7 +25,7 @@ Workshop_conference.pdf - slides for the workshop
 
 - How to make the most of an academic conference – a checklist for before, during and after the meeting |  Marta Teperek (https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/16/how-to-make-the-most-of-an-academic-conference-a-checklist-for-before-during-and-after-the-meeting/)
 
-- How to Ask Questions Better | Tim Ferriss
+- How to Ask Questions Better | Tim Ferriss (https://www.youtube.com/watch?v=ALMg-7-2trY)
 
 - How to MAKE THE MOST of Conferences | Jessica Sainsbury (https://www.youtube.com/watch?v=pxpPxFbeVZA&ab_channel=HeyJessica)
 
@@ -53,5 +53,5 @@ In addition, some workshop topics are suggested:
 - Career planning
 - Relationship with colleagues and/or supervisors.
 
-These are all informative feedback! I am very grateful!
+These are all informative feedbacks! I am very grateful!
 
