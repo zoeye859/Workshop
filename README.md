@@ -3,9 +3,11 @@
 
 # Workshop #1: How to make the most of the conference
 
-This workshop has a focus on the networking side (I think I use the word 'social' in my slides. I may organise workshops on 'how to ask good questions' and 'how to make good presentations' in the future). 
+This workshop has a focus on the *networking* side (I think I used the word 'social' in my slides. I may organise workshops on 'how to ask good questions' and 'how to make good presentations' in the future). 
 
-The target audience is graduate students and early-career researchers.
+**Target audience**: graduate students and early-career researchers.
+
+**Time**: 2 hours would be ideal to cover all discussions, tips and practices designed for the workshop.
 
 
 ## Files
