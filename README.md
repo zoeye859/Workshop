@@ -16,6 +16,6 @@ Workshop_conference_attendee.pptx - attendees may want to print multiple slides 
 
 Workshop Feedback - survey.pdf - survey, there is an online version too.
 
-Workshop_conference.pdf - slides for the workshop, *will upload after the workshop*
+Workshop_conference.pdf - slides for the workshop
 
 
