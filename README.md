@@ -5,13 +5,15 @@
 
 This workshop has a focus on the *networking* side (I think I used the word 'social' in my slides. I may organise workshops on 'how to ask good questions' and 'how to make good presentations' in the future). 
 
+**Files**: Inside the folder *Conference Networking Workshop*
+
 **Target audience**: graduate students and early-career researchers.
 
 **Time**: 2 hours would be ideal to cover all discussions, tips and practices designed for the workshop.
 
 (Event time: Sept 24 2020, School of Astronomy and Space Sciences, Nanjing University, China)
 
-## Files
+## File Description
 
 Workshop_conference_attendee.pdf - handouts for attendees to take notes
 
