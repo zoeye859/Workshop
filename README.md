@@ -65,5 +65,10 @@ Many people have problems of requesting things or saying no, even when doing so 
 
 This workshop introduces a framwork proposed by Marsha M. Lineman, from her book: DBT Skills Training Handouts and Worksheets. It is very straightforward, and most importantly, useful. After learning the frame work and how to use it, you can download an app called "The Dime Game" to practice this framework whenever you need.
 
+Resources:
+
+http://joanna-platt.com/wp-content/uploads/2017/06/DBT-Saying-Yes-or-No.pdf
+https://eymtherapy.com/blog/learn-to-say-no-dime-game/
+
 
 
