@@ -57,3 +57,13 @@ In addition, some workshop topics are suggested:
 
 These are all informative feedbacks! I am very grateful!
 
+# Workshop #2 : How to decide the intensity of asking something or saying no
+
+This mini workshop has a focus on how to make requests or say no. 
+
+Many people have problems of requesting things or saying no, even when doing so is compeletely legitimate. Also, some may struggle to choose the right intensity to make their requests and saying no. It is very common to think "Was my tone too aggresive?" "Did I annoy that person because I said no?" "I should have been more assertive or that person would not reject me" over and over again after a stressful situation where you request something or say no to someone.
+
+This workshop introduces a framwork proposed by Marsha M. Lineman, from her book: DBT Skills Training Handouts and Worksheets. It is very straightforward, and most importantly, useful. After learning the frame work and how to use it, you can download an app called "The Dime Game" to practice this framework whenever you need.
+
+
+
